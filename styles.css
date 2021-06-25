@@ -1,0 +1,41 @@
+body {
+	background-color: #EDEDED;
+}
+
+#titulo {
+	text-align: center;
+	padding: 1% 2%;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 70px;
+}
+
+.subtitulo {
+	text-align: center;
+	padding: 1% 2%;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 30px;
+}
+
+.cartela {
+	text-align: center;
+}
+
+.img-animal {
+	width: 200px;
+}
+
+.img-final {
+	width: 700px;
+}
+
+#avancar {
+	font-size: 30px;
+}
+
+.botoes {
+	text-align: center;
+	margin: 10% 0%;
+	font-size: 2rem;
+	font-family: 'Architects Daughter', cursive;
+	width: 200px;
+}
